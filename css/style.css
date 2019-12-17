@@ -1,5 +1,5 @@
 body {
-    background-color: #eaf6f6;
+    background-color: #c9d1d3;
 }
 hr {
     border-style: dotted none none;
@@ -8,6 +8,12 @@ hr {
     border-width: 5px;
     width: 5%
 }
-h1, h3  {
-    color: #66bfbf;
+h1  {
+    color: #1b2a49;
+}
+h3 {
+    color: #00909e;
+}
+img {
+    border-radius: 80px;
 }
